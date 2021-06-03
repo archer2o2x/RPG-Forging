@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rpg_forging:silver_ore"
+  },
+  "result": "rpg_forging:silver_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

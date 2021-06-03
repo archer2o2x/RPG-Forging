@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rpg_forging:charged_iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "rpg_forging:charged_iron_nugget",
+    "count": 9
+  }
+}

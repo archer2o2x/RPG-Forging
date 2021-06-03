@@ -1,0 +1,61 @@
+{
+  "item.rpg_forging.bronze_dust": "Bronze Dust",
+  "item.rpg_forging.bronze_ingot": "Bronze Ingot",
+  "item.rpg_forging.bronze_nugget": "Bronze Nugget",
+
+  "item.rpg_forging.charged_iron_dust": "Charged Iron Dust",
+  "item.rpg_forging.charged_iron_ingot": "Charged Iron Ingot",
+  "item.rpg_forging.charged_iron_nugget": "Charged Iron Nugget",
+
+  "item.rpg_forging.copper_dust": "Copper Dust",
+  "item.rpg_forging.copper_ingot": "Copper Ingot",
+  "item.rpg_forging.copper_nugget": "Copper Nugget",
+
+  "item.rpg_forging.pure_silver_dust": "Pure Silver Dust",
+  "item.rpg_forging.pure_silver_ingot": "Pure Silver Ingot",
+  "item.rpg_forging.pure_silver_nugget": "Pure Silver Nugget",
+
+  "item.rpg_forging.silver_dust": "Silver Dust",
+  "item.rpg_forging.silver_ingot": "Silver Ingot",
+  "item.rpg_forging.silver_nugget": "Silver Nugget",
+
+  "item.rpg_forging.tin_dust": "Tin Dust",
+  "item.rpg_forging.tin_ingot": "Tin Ingot",
+  "item.rpg_forging.tin_nugget": "Tin Nugget",
+
+  "item.rpg_forging.silver_axe": "Silver Axe",
+  "item.rpg_forging.silver_hoe": "Silver Hoe",
+  "item.rpg_forging.silver_pickaxe": "Silver Pickaxe",
+  "item.rpg_forging.silver_shovel": "Silver Shovel",
+  "item.rpg_forging.silver_sword": "Silver Sword",
+
+  "item.rpg_forging.silver_boots": "Silver Boots",
+  "item.rpg_forging.silver_chestplate": "Silver Chestplate",
+  "item.rpg_forging.silver_helmet": "Silver Helmet",
+  "item.rpg_forging.silver_leggings": "Silver Leggings",
+
+  "item.rpg_forging.flute": "Flute",
+  "item.rpg_forging.lyre": "Lyre",
+  "item.rpg_forging.crucible": "Crucible",
+
+
+
+  "block.rpg_forging.bronze_block": "Bronze Block",
+
+  "block.rpg_forging.charged_iron_block": "Charged Iron Block",
+
+  "block.rpg_forging.copper_block": "Copper Block",
+  "block.rpg_forging.copper_ore": "Copper Ore",
+
+  "block.rpg_forging.pure_silver_block": "Pure Silver Block",
+
+  "block.rpg_forging.silver_block": "Silver Block",
+  "block.rpg_forging.silver_ore": "Silver Ore",
+
+  "block.rpg_forging.tin_block": "Tin Block",
+  "block.rpg_forging.tin_ore": "Tin Ore",
+
+
+
+  "enchantment.rpg_forging.coating_levitation": "Levitation Coating"
+}
